@@ -1,12 +1,17 @@
-Track,Artist,Genre
+Track,Artist,Genre,Genre Status
 Toosie Slide,Drake,|['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']|,False
 Handyman,Triple One,|['australian hip hop', 'australian trap', 'australian underground hip hop', 'dark trap', 'emo rap', 'underground hip hop']|,False
-Time,Childish Gambino,|['atl hip hop', 'pop rap', 'rap']|,False
+Chemicals,Jeida Woods,[],-1
+Move,Baker Boy,|['australian hip hop', 'australian indigenous', 'australian pop']|,True
+Time,Childish Gambino,|['atl hip hop', 'hip hop', 'pop rap', 'rap']|,False
 Hopscotch,Nerve,|['aussie drill', 'australian hip hop', 'australian trap', 'australian underground hip hop']|,False
 Shimmy,Aminé,|['hip hop', 'pop rap', 'portland hip hop', 'rap']|,False
 Rain,Aitch,['manchester hip hop'],False
+Hard to Say (feat. I.E.),GRAACE,|['australian alternative pop', 'australian pop']|,True
 schleep.,Kwame,['australian hip hop'],False
+Switched Up,Oliver Malcolm,[],-1
 Le Labo,EAST AV3,['australian hip hop'],False
+Cautious,Max Leone,[],-1
 Diva (feat. Lil Tecca),The Kid LAROI,|['australian hip hop', 'vapor trap']|,False
 Last Laugh,Illy,|['australian hip hop', 'australian indie', 'australian pop', 'australian trap']|,False
 DIET_,Denzel Curry,|['dark trap', 'drill', 'hip hop', 'miami hip hop', 'rap', 'underground hip hop']|,False
