@@ -1,4 +1,4 @@
-import spotipy
+import spotipy 
 from configs import config
 from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy.util as util
